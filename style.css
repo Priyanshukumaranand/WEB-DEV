@@ -1,0 +1,32 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    background: red url('stinkbug.png') no-repeat fixed top ;
+    height: 423px;
+    width:345;
+    border-style: double;
+    border-color: rgb(14, 5, 22);
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+} 
+.red{
+    background: rgb(72, 138, 38);
+    color: rgb(32, 38, 19);
+    height: 104px;
+    font-style: italic;
+    font-size: large;
+    border-style: double;
+    border-color: blueviolet;
+    
+}
+.green{
+    background: green;
+    color: rgb(3, 216, 145);
+    height: 80px;
+
+}
+.pka{
+    background-color: aquamarine;
+    color: blueviolet;
+    height: 50px;
+}
